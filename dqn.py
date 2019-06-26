@@ -1,3 +1,4 @@
+#!usr/bin/env python
 TRAIN = True
 
 ENV_NAME = 'BreakoutDeterministic-v4'
